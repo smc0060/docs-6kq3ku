@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-t3asq8.1casino.co.nz/sitemap.xml
